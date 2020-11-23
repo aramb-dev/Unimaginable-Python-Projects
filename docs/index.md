@@ -8,8 +8,7 @@ If you want to clone this repository, click the link below to download a zip fil
 
 #### [Download ZIP file](https://github.com/aramservices198/pythonmadlibs/archive/main.zip)
 #### HTTPS: [https://github.com/aramservices198/pythonmadlibs.git](https://github.com/aramservices198/pythonmadlibs.git)
-#### [Github CLI](https://cli.github.com/):
-#### gh repo clone aramservices198/pythonmadlibs
+#### [Github CLI](https://cli.github.com/): gh repo clone aramservices198/pythonmadlibs
 
 ### Support or Contact
 
