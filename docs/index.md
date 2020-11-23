@@ -13,4 +13,4 @@ If you want to clone this repository, click the link below to download a zip fil
 ### Support or Contact
 
 
-Having trouble with Python Madlibs? [Email us at aramservices198@gmail.com](mailto:aramservices198@gmail.com] or [create an issue on Github](https://github.com/aramservices198/pythonmadlibs/issues/new).
+Having trouble with Python Madlibs? [Email us at aramservices198@gmail.com](mailto:aramservices198@gmail.com) or [create an issue on Github](https://github.com/aramservices198/pythonmadlibs/issues/new).
