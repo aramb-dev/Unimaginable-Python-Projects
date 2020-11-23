@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Welcome to [Python Madlibs](https://github.com/aramservices198/pythinmadlibs)
 
-You can use the [editor on GitHub](https://github.com/aramservices198/pythonmadlibs/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Check out [our website here](https://aramservices198.github.io/pythonmadlibs/)
+ring-markdown/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Cloning and Trying out
+If you want to clone this repository, click the link below to download a zip file of it or use other methods stated below and on github.com.
 
-### Markdown
+[Download ZIP file](https://github.com/aramservices198/pythonmadlibs/archive/main.zip)
+HTTPS:
+[https://github.com/aramservices198/pythonmadlibs.git](https://github.com/aramservices198/pythonmadlibs.git)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Github CLI](https://cli.github.com/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aramservices198/pythonmadlibs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+gh repo clone aramservices198/pythonmadlibs
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Having trouble with Python Madlibs? [Email us at aramservices198@gmail.com](mailto:aramservices198@gmail.com] or [create an issue on Github](https://github.com/aramservices198/pythonmadlibs/issues/new).
