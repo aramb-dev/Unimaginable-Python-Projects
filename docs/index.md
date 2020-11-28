@@ -1,8 +1,7 @@
-# Welcome to [Python Madlibs](https://github.com/aramservices198/Unimaginable-Python-Projects)
+# Welcome to [Unimaginable Python Projects!](https://github.com/aramservices198/Unimaginable-Python-Projects)
 
 Check out [our website here](https://aramservices198.github.io)
 .
-
 ## Cloning and Trying out
 If you want to clone this repository, click the link below to download a zip file of it or use other methods stated below and on github.com.
 
