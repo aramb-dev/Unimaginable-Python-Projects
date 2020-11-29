@@ -1,0 +1,3 @@
+print("")
+input("")
+variable = "bogus"
