@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0d28970-d10d-4bff-89a0-597dc14b267c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b0d28970-d10d-4bff-89a0-597dc14b267c" name="Default Changelist" comment="" />
+    <list id="333ecd3e-2b45-46d0-900f-341e6a1606a4" name="Revert &quot;Updated calculators&quot;" comment="">
       <change beforePath="$PROJECT_DIR$/CALCULATOR++Free/addition.py" beforeDir="false" afterPath="$PROJECT_DIR$/CALCULATOR++Free/addition.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CALCULATOR++Free/division.py" beforeDir="false" afterPath="$PROJECT_DIR$/CALCULATOR++Free/division.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CALCULATOR++Free/multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/CALCULATOR++Free/multiplication.py" afterDir="false" />
@@ -55,10 +55,39 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
+  <component name="RunManager">
+    <configuration name="multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Unimaginable-Python-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CALCULATOR++Free" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CALCULATOR++Free/multiplication.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.multiplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b0d28970-d10d-4bff-89a0-597dc14b267c" name="Default Changelist" comment="" />
+      <changelist id="333ecd3e-2b45-46d0-900f-341e6a1606a4" name="Revert &quot;Updated calculators&quot;" comment="" />
       <created>1606669770484</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -92,7 +121,28 @@
       <option name="project" value="LOCAL" />
       <updated>1606670230900</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="workspace.xml commit">
+      <created>1606685043008</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606685043008</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated calculators">
+      <created>1606685094273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606685094273</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Revert &quot;Updated calculators&quot;&#10;&#10;This reverts commit 7a34da16">
+      <created>1606685170100</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606685170100</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,8 +158,40 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added some free calculators" />
-    <MESSAGE value="workspace.xml commit" />
     <MESSAGE value="Changed PyCharm Project Name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed PyCharm Project Name" />
+    <MESSAGE value="workspace.xml commit" />
+    <MESSAGE value="Updated calculators" />
+    <MESSAGE value="Revert &quot;Updated calculators&quot;&#10;&#10;This reverts commit 7a34da16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Updated calculators&quot;&#10;&#10;This reverts commit 7a34da16" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1606685167698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606685167698" />
+    <state width="1345" height="194" key="GridCell.Tab.0.bottom" timestamp="1606684685311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606684685311" />
+    <state width="1345" height="194" key="GridCell.Tab.0.center" timestamp="1606684685311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606684685311" />
+    <state width="1345" height="194" key="GridCell.Tab.0.left" timestamp="1606684685311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606684685311" />
+    <state width="1345" height="194" key="GridCell.Tab.0.right" timestamp="1606684685311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606684685311" />
+    <state x="533" y="271" key="VCS.ChangelistChooser" timestamp="1606685185359">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="533" y="271" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1606685185359" />
+    <state x="275" y="78" key="Vcs.Push.Dialog.v2" timestamp="1606685106472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="78" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606685106472" />
   </component>
 </project>
