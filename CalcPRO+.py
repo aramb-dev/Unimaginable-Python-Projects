@@ -1,4 +1,4 @@
-print("Welcome to the PRO version of Calculator+! This calculator\nhas the ability to add, subtract, multiply,\ndivide. Remember that multiple numbers are not compatible with division. This calculator is only compatible with four numbers.")
+print("Welcome to the PRO version of Calculator+! This calculator has the ability to add, subtract, multiply,\nand divide. Remember that multiple numbers are not compatible with division. This calculator is only compatible with four numbers. If you have any issue with this calculator")
 num1 = float(input("First Number?"))
 op = input("Enter operator, ex. +, -, *, /:")
 num2 = float(input("Second Number?"))
