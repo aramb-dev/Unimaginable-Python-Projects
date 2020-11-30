@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0d28970-d10d-4bff-89a0-597dc14b267c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procalcversion2020.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/procalcversion2020.2.py" afterDir="false" />
-    </list>
-    <list id="333ecd3e-2b45-46d0-900f-341e6a1606a4" name="Revert &quot;Updated calculators&quot;" comment="" />
+    <list default="true" id="b0d28970-d10d-4bff-89a0-597dc14b267c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +102,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b0d28970-d10d-4bff-89a0-597dc14b267c" name="Default Changelist" comment="" />
-      <changelist id="333ecd3e-2b45-46d0-900f-341e6a1606a4" name="Revert &quot;Updated calculators&quot;" comment="" />
+      <changelist id="" name="Revert &quot;Updated calculators&quot;" comment="" />
       <created>1606669770484</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -175,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606685337837</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="workspace.xml">
+      <created>1606774197208</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606774197208</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Edited our cool calculator!">
+      <created>1606774230139</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606774230139</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,29 +206,47 @@
     <MESSAGE value="Revert &quot;Updated calculators&quot;&#10;&#10;This reverts commit 7a34da16" />
     <MESSAGE value="Updated calculators" />
     <MESSAGE value="Updated xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated xml" />
+    <MESSAGE value="workspace.xml" />
+    <MESSAGE value="Edited our cool calculator!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited our cool calculator!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1606685167698">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="317" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606685167698" />
-    <state width="1367" height="672" key="GridCell.Tab.0.bottom" timestamp="1606687714001">
+    <state width="1367" height="644" key="GridCell.Tab.0.bottom" timestamp="1606774074031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="672" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606687714001" />
-    <state width="1367" height="672" key="GridCell.Tab.0.center" timestamp="1606687714000">
+    <state width="1367" height="644" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606774074031" />
+    <state width="1367" height="644" key="GridCell.Tab.0.center" timestamp="1606774074030">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="672" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606687714000" />
-    <state width="1367" height="672" key="GridCell.Tab.0.left" timestamp="1606687713999">
+    <state width="1367" height="644" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606774074030" />
+    <state width="1367" height="644" key="GridCell.Tab.0.left" timestamp="1606774074029">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="672" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606687713999" />
-    <state width="1367" height="672" key="GridCell.Tab.0.right" timestamp="1606687714001">
+    <state width="1367" height="644" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606774074029" />
+    <state width="1367" height="644" key="GridCell.Tab.0.right" timestamp="1606774074030">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="672" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606687714001" />
+    <state width="1367" height="644" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606774074030" />
+    <state width="1345" height="241" key="GridCell.Tab.1.bottom" timestamp="1606773929318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="241" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606773929318" />
+    <state width="1345" height="241" key="GridCell.Tab.1.center" timestamp="1606773929318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="241" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1606773929318" />
+    <state width="1345" height="241" key="GridCell.Tab.1.left" timestamp="1606773929318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="241" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1606773929318" />
+    <state width="1345" height="241" key="GridCell.Tab.1.right" timestamp="1606773929318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="241" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1606773929318" />
     <state x="533" y="271" key="VCS.ChangelistChooser" timestamp="1606685185359">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
