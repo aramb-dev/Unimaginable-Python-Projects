@@ -102,7 +102,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b0d28970-d10d-4bff-89a0-597dc14b267c" name="Default Changelist" comment="" />
-      <changelist id="" name="Revert &quot;Updated calculators&quot;" comment="" />
       <created>1606669770484</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -212,6 +211,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added some free calculators" />
