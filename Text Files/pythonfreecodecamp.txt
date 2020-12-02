@@ -1,7 +1,0 @@
-TODO:
-color
-plural noun'
-celebrity
-Enter a color
-Enter a plural noun
-Enter a celebrity
