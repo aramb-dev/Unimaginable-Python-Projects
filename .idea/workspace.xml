@@ -19,17 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0d28970-d10d-4bff-89a0-597dc14b267c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tutorial Projects/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial Projects/guessgame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial Projects/guessgamebetter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial Projects/whileloop.py" afterDir="false" />
+    <list default="true" id="b0d28970-d10d-4bff-89a0-597dc14b267c" name="Default Changelist" comment="" />
+    <list id="12a69f18-1542-4fc1-96e0-3c532bbd54d7" name="GetIgnore" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text Files/A Day At The Zoo!.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text Files/I_WOULD_VENETARIAN.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text Files/The Fun Park!.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text Files/Vacation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text Files/pythonfreecodecamp.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +49,31 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.guessgamebetter">
-    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.forloop">
+    <configuration name="CalcPRO+" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Unimaginable-Python-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CalcPRO+.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="forloop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Unimaginable-Python-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tutorial Projects/dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tutorial Projects/forloop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,27 +136,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="procalcversion2020.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Unimaginable-Python-Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/procalcversion2020.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="whileloop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Unimaginable-Python-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.forloop" />
+        <item itemvalue="Python.CalcPRO+" />
         <item itemvalue="Python.guessgamebetter" />
         <item itemvalue="Python.guessgame" />
         <item itemvalue="Python.whileloop" />
-        <item itemvalue="Python.dictionary" />
-        <item itemvalue="Python.procalcversion2020.2" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +171,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b0d28970-d10d-4bff-89a0-597dc14b267c" name="Default Changelist" comment="" />
+      <changelist id="12a69f18-1542-4fc1-96e0-3c532bbd54d7" name="GetIgnore" comment="" />
       <created>1606669770484</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -275,7 +268,28 @@
       <option name="project" value="LOCAL" />
       <updated>1606789097711</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Changed and tutorial">
+      <created>1606876916187</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606876916187</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Changed and tutorial">
+      <created>1606876943374</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606876943374</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Commit message. P.S I am comitting from PyCharm!">
+      <created>1607051760712</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1607051760712</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -301,9 +315,15 @@
     <MESSAGE value="Edited our cool calculator!" />
     <MESSAGE value="Changed workspace.xml" />
     <MESSAGE value="Updated README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md" />
+    <MESSAGE value="Changed and tutorial" />
+    <MESSAGE value="Commit message. P.S I am comitting from PyCharm!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit message. P.S I am comitting from PyCharm!" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607051709336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.140.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607051709336" />
     <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1606685167698">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -312,22 +332,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1606789019772" />
-    <state width="1367" height="626" key="GridCell.Tab.0.bottom" timestamp="1606876711260">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1367" height="626" key="GridCell.Tab.0.bottom" timestamp="1607051693304">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1367" height="626" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606876711260" />
-    <state width="1367" height="626" key="GridCell.Tab.0.center" timestamp="1606876711255">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1367" height="626" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606876953733" />
+    <state width="1367" height="626" key="GridCell.Tab.0.bottom/1920.140.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607051693304" />
+    <state width="1367" height="626" key="GridCell.Tab.0.center" timestamp="1607051693302">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1367" height="626" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606876711255" />
-    <state width="1367" height="626" key="GridCell.Tab.0.left" timestamp="1606876711255">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1367" height="626" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606876953733" />
+    <state width="1367" height="626" key="GridCell.Tab.0.center/1920.140.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607051693302" />
+    <state width="1367" height="626" key="GridCell.Tab.0.left" timestamp="1607051693302">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1367" height="626" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606876711255" />
-    <state width="1367" height="626" key="GridCell.Tab.0.right" timestamp="1606876711255">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1367" height="626" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606876953733" />
+    <state width="1367" height="626" key="GridCell.Tab.0.left/1920.140.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607051693302" />
+    <state width="1367" height="626" key="GridCell.Tab.0.right" timestamp="1607051693303">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1367" height="626" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606876711255" />
+    <state width="1367" height="626" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606876953733" />
+    <state width="1367" height="626" key="GridCell.Tab.0.right/1920.140.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607051693303" />
     <state width="1345" height="241" key="GridCell.Tab.1.bottom" timestamp="1606789114248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -344,14 +368,23 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="241" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1606789114248" />
-    <state x="199" y="9" key="SettingsEditor" timestamp="1606875732349">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="280" y="13" key="SettingsEditor" timestamp="1607051506202">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="199" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606875732349" />
+    <state x="280" y="13" key="SettingsEditor/1920.140.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607051506202" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1607051364948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/1920.140.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607051364948" />
     <state x="533" y="271" key="VCS.ChangelistChooser" timestamp="1606685185359">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="533" y="271" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1606685185359" />
+    <state x="790" y="390" key="VCS.EditChangelistDialog" timestamp="1607045999937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="390" key="VCS.EditChangelistDialog/1920.140.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607045999937" />
     <state x="275" y="78" key="Vcs.Push.Dialog.v2" timestamp="1606685106472">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
