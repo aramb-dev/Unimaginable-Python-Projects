@@ -17,8 +17,6 @@ if neednum1 == "yes":
 elif neednum == "no":
     print()
 
-
-
 if op == "+":
     print(num2 + num1 + num3 + num4)
 elif op == "-":
