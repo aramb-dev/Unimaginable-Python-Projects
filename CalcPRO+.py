@@ -1,32 +1,70 @@
-print("Welcome to the PRO version of Calculator+! This calculator has the ability to add, subtract, multiply,\nand divide. Remember that multiple numbers are not compatible with division. This calculator is only compatible with four numbers. If you have any issue with this calculator then go here: \n https://github.com/aramservices198/Unimaginable-Python-Projects/issues/new")
-num1 = float(input("First Number?"))
-op = input("Enter operator, ex. +, -, *, /:")
-num2 = float(input("Second Number?"))
-num3 = float(0)
-num4 = float(0)
-neednum1 = ()
-neednum = input("Do you need another number? yes or no for our server is case sensitive. :)")
-if neednum == "yes":
-    num3 = float(input("Third Number?"))
-    neednum1 = input("Do you need another number? yes or no for our server is case sensitive. :)")
-elif neednum == "no":
-    print()
-
-if neednum1 == "yes":
-    num4 = float(input("Fourth Number?"))
-elif neednum == "no":
-    print()
-
-if op == "+":
-    print(num2 + num1 + num3 + num4)
-elif op == "-":
-    print(num1 - num2 + num3 - num4)
-elif op == "*":
-    print(num2 * num1 * num4 * num3)
-elif op == "/":
-    print(num1 / num2)
+resultadd = float(0)
+resultmult = float(0)
+resultsub = float(0)
+resultdiv = float(0)
+numadd = float(0)
+numadd1 = float(0)
+numadd2 = float(0)
+numsub = float(0)
+numsub1 = float(0)
+numsub2 = float(0)
+nummult = float(1)
+nummult1 = float(1)
+nummult2 = float(1)
+numdiv = float(0)
+numdiv1 = float(0)
+neednotheradd = ()
+neednothersub = ()
+neednothermult = ()
+print("Welcome to the PRO version of Calculator+! This calculator\nhas the ability to add, subtract, multiply,\ndivide. Your shortcuts are\nadd\nsubtract\nmultiply\ndivide.")
+typeofcalc = input("What mode do you want?\nNote: Use the shortcuts above.")
+print("You want " + typeofcalc + ".  Restart the program to pick another shortcut.")
+if typeofcalc == "add":
+    numadd = float(input("Enter your number: "))
+    numadd1 = float(input("Enter your second addend: "))
+    neednotheradd = input("Do you need another number? Pick yes or no:")
+    if neednotheradd == "yes":
+        numadd2 = float(input("Enter your third addend:"))
+    elif neednotheradd == "no":
+        print()
+    else:
+        print("You have entered the wrong syntax.")
+        print("Restart the program to try again.")
+    resultadd = numadd + numadd1 + numadd2
+    print(resultadd)
+elif typeofcalc == "subtract":
+    numsub = float(input("Enter your number: "))
+    numsub1 = float(input("Enter your second number: "))
+    neednothersub = input("Do you need another number? Pick yes or no:")
+    if neednothersub == "yes":
+        numsub2 = float(input("Enter your third number:"))
+    elif neednothersub == "no":
+        print()
+    else:
+        print("You have entered the wrong syntax.")
+        print("Restart the program to try again.")
+    resultsub = numsub - numsub1 - numsub2
+    print(resultsub)
+elif typeofcalc == "multiply":
+    nummult = float(input("Enter your number: "))
+    nummult1 = float(input("Enter your second number: "))
+    neednothermult = input("Do you need another number? Pick yes or no:")
+    if neednothermult == "yes":
+        nummult2 = float(input("Enter your third number:"))
+    elif neednothermult == "no":
+        print()
+    else:
+        print("You have entered the wrong syntax.")
+        print("Restart the program to try again.")
+    resultmult = nummult * nummult1 * nummult2
+    print(resultmult)
+elif typeofcalc == "divide":
+    print("Remember dividing does not support more than two numbers in this calculator.")
+    numdiv = float(input("Enter your number: "))
+    numdiv1 = float(input("Enter your second number: "))
+    resultdiv = numdiv / numdiv1
+    print(resultdiv)
 else:
-    print("You have entered an incorrect character.")
-    print("To restart, you will need to re-run your calculator.")
+    print("You have entered the wrong syntax.")
+    print("Restart the program to try again.")
     exit()
-
