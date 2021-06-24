@@ -13,7 +13,7 @@ These are python projects created by [Abdur-Rahman](https://github.com/aramservi
 
 👤 **Abdur-Rahman**
 
-* Github: [@AramServices(https://github.com/aramservices)
+* Github: [@AramServices](https://github.com/aramservices)
 * Github Organization: [Aram Services](https://github.com/Aram-Services)
 ## Show your support
 
