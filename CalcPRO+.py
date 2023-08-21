@@ -16,7 +16,15 @@ numdiv1 = float(0)
 neednotheradd = ()
 neednothersub = ()
 neednothermult = ()
-print("Welcome to the PRO version of Calculator+! This calculator\nhas the ability to add, subtract, multiply,\ndivide. Your shortcuts are\nadd\nsubtract\nmultiply\ndivide.")
+print("""
+
+      Welcome to the PRO version of Calculator+!
+
+      This calculator\nhas the ability to add, subtract, multiply,\ndivide.
+
+       Your shortcuts are\nadd\nsubtract\nmultiply\ndivide.
+
+      """)
 typeofcalc = input("What mode do you want?\nNote: Use the shortcuts above.")
 print("You want " + typeofcalc + ".  Restart the program to pick another shortcut.")
 if typeofcalc == "add":

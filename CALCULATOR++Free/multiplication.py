@@ -1,4 +1,12 @@
-print("Welcome to the FREE version of Calculator++! This calculator has the ability to multiply. This calculator is only compatible with four numbers. If you have any issue with this calculator then go here: \n https://github.com/aramservices198/Unimaginable-Python-Projects/issues/new")
+print("""
+
+      Welcome to the FREE version of Calculator++!
+
+      This calculator has the ability to multiply.
+
+      This calculator is only compatible with four numbers.
+
+      If you have any issue with this calculator then go here: \n https://github.com/aramservices198/Unimaginable-Python-Projects/issues/new""")
 num1 = float(input("First Number?"))
 num2 = float(input("Second Number?"))
 num3 = float(1)
