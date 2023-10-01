@@ -6,7 +6,11 @@ print("""
 
       This calculator is only compatible with four numbers.
 
-      If you have any issue with this calculator then go here: \n https://github.com/aramservices198/Unimaginable-Python-Projects/issues/new""")
+      If you have any issue with this calculator then go here:
+
+      https://github.com/aramb-dev/Unimaginable-Python-Projects/issues/new
+
+      """)
 num1 = float(input("First Number?"))
 num2 = float(input("Second Number?"))
 num3 = float(1)
