@@ -7,7 +7,9 @@ These are python projects created by [Abdur-Rahman](https://github.com/aramservi
 👤 **Abdur-Rahman**
 
 * Github: [@aramb-dev](https://github.com/aramb-dev)
-* Github Organization: [Aram Services](https://github.com/aramservices)
+* Github Organization: [Aram Digital Solutions](https://github.com/aramservices)
+
+  
 ## Show your support
 
 Give a ⭐️ if this project helped you!
