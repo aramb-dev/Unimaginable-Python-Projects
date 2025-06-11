@@ -1,20 +1,15 @@
-# Unimaginable Python Projects
+# Python Projects
 These are python projects created by [Abdur-Rahman](https://github.com/aramservices198) with the help of [FreeCodeCamp Python Tutorial](https://youtu.be/rfscVS0vtbw) 
 
-
-> These Python programs are incredible
-
->How are these makable? They just blow my mind!
-
-
->Abdur-Rahman did some increrdible work!
 
 ## Author
 
 👤 **Abdur-Rahman**
 
-* Github: [@AramServices](https://github.com/aramservices)
-* Github Organization: [Aram Services](https://github.com/Aram-Services)
+* Github: [@aramb-dev](https://github.com/aramb-dev)
+* Github Organization: [Aram Digital Solutions](https://github.com/aramservices)
+
+  
 ## Show your support
 
 Give a ⭐️ if this project helped you!
